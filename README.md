@@ -1,4 +1,4 @@
-# e_api_cancel_order.py
+# e_api_cancel_order_tel.py
 電話認証対応　注文取消（現物、信用共用）
 
 
